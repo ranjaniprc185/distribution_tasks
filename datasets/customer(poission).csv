@@ -1,0 +1,101 @@
+"Customer ID","call count","Report","Day Number"
+"C001",3,"Issue with internet connectivity, resolved.",1
+"C002",1,"Query about billing statement.",2
+"C003",2,"Technical support for software installation.",3
+"C004",1,"General inquiry about service plans.",4
+"C005",4,"Multiple calls regarding account activation.",5
+"C006",1,"Requested password reset.",6
+"C007",2,"Complaint about service outage.",7
+"C008",1,"Follow-up on previous ticket.",1
+"C009",3,"Network configuration assistance.",2
+"C010",1,"Product warranty information.",3
+"C011",2,"Payment processing issue.",4
+"C012",1,"Scheduled a technician visit.",5
+"C013",1,"Feedback on recent service.",6
+"C014",3,"Urgent issue with data loss.",7
+"C015",2,"Query about product features.",1
+"C016",1,"Cancelled subscription.",2
+"C017",1,"Requested upgrade to service.",3
+"C018",2,"Troubleshooting for hardware issue.",4
+"C019",1,"Asked for refund status.",5
+"C020",1,"General sales inquiry.",6
+"C021",2,"Assisted with account login.",7
+"C022",3,"Provided information on new offers.",1
+"C023",1,"Resolved a service interruption.",2
+"C024",4,"Updated customer contact details.",3
+"C025",2,"Guided through mobile app usage.",4
+"C026",1,"Registered a new complaint.",5
+"C027",3,"Scheduled a callback.",6
+"C028",1,"Provided details on service upgrade.",7
+"C029",2,"Escalated issue to higher department.",1
+"C030",1,"Customer provided positive feedback.",2
+"C031",5,"Multiple billing discrepancies.",3
+"C032",1,"Information on data plans.",4
+"C033",2,"Assisted with device setup.",5
+"C034",1,"Query regarding package delivery.",6
+"C035",3,"Urgent account lockout issue.",7
+"C036",1,"Requested change of address.",1
+"C037",2,"Technical guidance for smart home device.",2
+"C038",1,"Asked about promotional offers.",3
+"C039",4,"Repeated calls for service activation.",4
+"C040",1,"Feedback on customer support.",5
+"C041",2,"Complaint about slow internet speed.",6
+"C042",1,"Requested a detailed usage report.",7
+"C043",3,"Configuration of VPN settings.",1
+"C044",1,"Inquiry about international roaming.",2
+"C045",2,"Troubleshooting email sync issues.",3
+"C046",1,"Asked for a new SIM card.",4
+"C047",5,"Critical service disruption.",5
+"C048",1,"Query about mobile phone features.",6
+"C049",2,"Assistance with smart TV setup.",7
+"C050",1,"Follow-up on repair status.",1
+"C051",3,"Problem with video streaming.",2
+"C052",1,"Inquiry about cloud storage.",3
+"C053",2,"Assisted with printer connectivity.",4
+"C054",1,"Requested change of service plan.",5
+"C055",4,"Continuous service drops.",6
+"C056",1,"Asked for contract end date.",7
+"C057",2,"Guidance on parental controls.",1
+"C058",1,"Query about warranty claim.",2
+"C059",3,"Multiple attempts for online payment.",3
+"C060",1,"Feedback on recent network upgrade.",4
+"C061",2,"Complaint about unrequested charges.",5
+"C062",1,"Requested to block spam calls.",6
+"C063",3,"Assistance with app download.",7
+"C064",1,"Inquiry about referral program.",1
+"C065",2,"Troubleshooting remote access.",2
+"C066",1,"Asked for service availability in new area.",3
+"C067",4,"Urgent issue with security breach.",4
+"C068",1,"Query about data top-up plans.",5
+"C069",2,"Assisted with setting up voicemail.",6
+"C070",1,"Follow-up on service cancellation.",7
+"C071",3,"Problem with call drops.",1
+"C072",1,"Inquiry about device compatibility.",2
+"C073",2,"Assisted with software update.",3
+"C074",1,"Requested account statement.",4
+"C075",5,"Repeated technical glitches.",5
+"C076",1,"Asked for loyalty program details.",6
+"C077",2,"Guidance on using online portal.",7
+"C078",1,"Query about international calls.",1
+"C079",3,"Assistance with network optimization.",2
+"C080",1,"Feedback on service quality.",3
+"C081",2,"Complaint about technician visit.",4
+"C082",1,"Requested temporary service suspension.",5
+"C083",3,"Critical data synchronization error.",6
+"C084",1,"Inquiry about bundled offers.",7
+"C085",2,"Troubleshooting smart home camera.",1
+"C086",1,"Asked for historical billing data.",2
+"C087",4,"Persistent internet disconnection.",3
+"C088",1,"Query about specific product feature.",4
+"C089",2,"Assisted with email configuration.",5
+"C090",1,"Follow-up on account verification.",6
+"C091",3,"Problem with slow application performance.",7
+"C092",1,"Inquiry about data security measures.",1
+"C093",2,"Assistance with system restore.",2
+"C094",1,"Requested copy of contract.",3
+"C095",5,"Urgent issue with payment fraud.",4
+"C096",1,"Query about fair usage policy.",5
+"C097",2,"Assisted with firewall settings.",6
+"C098",1,"Feedback on new customer onboarding.",7
+"C099",3,"Multiple attempts to activate service.",1
+"C100",1,"General query about terms and conditions.",2
